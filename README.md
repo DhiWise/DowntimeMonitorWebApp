@@ -5,7 +5,7 @@ For all different types of services have different status pages, so instead of v
 
 This is a react web application.
 
-It uses status APIs of service provider to fetch and show real time status.
+It uses status APIs of service provider to fetch and show real time status and notify on slack channel.
 
 Figma : https://www.figma.com/file/Jobvnz4b90VKQBCIh2vxiO/checkstatus?node-id=0%3A1
 
