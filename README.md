@@ -13,7 +13,7 @@ The Project has default configuration in constant of status API services endpoin
 
 1. Postman
 2. Slack
-3. Amazone
+3. Amazon
 4. ClickUp
 5. Keka
 6. Canny
