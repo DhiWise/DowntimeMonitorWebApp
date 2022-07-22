@@ -29,5 +29,8 @@ The Project has default configuration in constant of status API services endpoin
 
 # Run the application.
 
-This app has slack incoming webhooks Signup/Signins. Thus, you need to configure and change token in hooks API
+This app has slack incoming webhooks Signup/Signins. 
+
+Thus, you need to configure and change token in hooks APIs
+
 You can modify constants as per your requirement of additional lists.
