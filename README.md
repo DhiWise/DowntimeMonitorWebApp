@@ -28,7 +28,7 @@ The Project has default configuration in constant of status API services endpoin
 15. Discord
 
 ![Image 1](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-27-26.png?token=GHSAT0AAAAAABW3WJI5FHUNFSA5V5GZIXFCYW2UQ6A)
-![Image 2]()
+![Image 2](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-29-25.png?token=GHSAT0AAAAAABW3WJI4MH6BIVZSCZEEJPZIYW2UUJQ)
 
 # Design System
 
