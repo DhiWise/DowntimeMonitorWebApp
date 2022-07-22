@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif !important;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+.dhiwise-code,
+.dhiwise-navigation {
+  min-height: 100%;
+}
+.dhiwise-code > div {
+  min-height: 100vh;
+}
+.common-row {
+  flex-direction: row;
+  display: flex;
+}
+.common-column {
+  flex-direction: column;
+  display: flex;
+}
+.common-image {
+  max-width: 100%;
+}
+.common-stack {
+  position: relative;
+  flex-wrap: wrap;
+}
+.common-list {
+  display: grid;
+}
+.common-grid {
+  display: grid;
+  flex-flow: row wrap;
+  min-height: auto;
+}
+.common-button {
+  cursor: pointer;
+  outline: none;
+}
+.common-floating-button {
+  cursor: pointer;
+  outline: none;
+  position: fixed !important;
+}
+.common-pointer {
+  cursor: pointer;
+}
+.dhiwise-navigation {
+  padding: 20px;
+  background-color: #232323;
+}
+.dhiwise-navigation h1 {
+  color: white;
+}
+.dhiwise-navigation .headline {
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: white;
+}
+.dhiwise-navigation ul {
+  padding: 0;
+}
+.dhiwise-navigation ul li {
+  list-style: none;
+  margin-right: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.dhiwise-navigation a {
+  color: #132cdc;
+}
+table {
+  border-spacing: 0;
+}
+.react-datepicker-popper {
+  z-index: 100000 !important;
+}
+.drawable-icon{
+  position: absolute;
+  margin: auto;
+  z-index: 1000;
+}
+.input-wrap{
+  position: relative;
+}
+option{
+  color: #000;
+}
+.table-wrap{
+  overflow: auto;
+}
+input:focus{
+  outline:none;
+}
+.ReactModal__Body--open{
+  overflow: hidden;
+}
+  .slider-indicator:first-child {
+    margin-left: 0;
+}
+
+.slider-indicator:last-child {
+margin-right: 0;
+}
