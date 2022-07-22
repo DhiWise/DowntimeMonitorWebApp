@@ -1,0 +1,2 @@
+# react-downtime-monitor-with-slack
+In daily organization routine, they may have different types of work and dependencies on other services, each service may have a different status when the situations like service downtime occur every organisation may not be able to be aware of the exact situation at a time due to which there may be some problems into their product functionality and other things.
