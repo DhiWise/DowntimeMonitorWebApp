@@ -27,8 +27,9 @@ The Project has default configuration in constant of status API services endpoin
 14. Figma
 15. Discord
 
-![Image 1](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-27-26.png?token=GHSAT0AAAAAABW3WJI5FHUNFSA5V5GZIXFCYW2UQ6A)
-![Image 2](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-29-25.png?token=GHSAT0AAAAAABW3WJI4MH6BIVZSCZEEJPZIYW2UUJQ)
+![Image 1](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-27-26.png?token=GHSAT0AAAAAABW3WJI4FKDOO3MTWCI3ZGCGYW2U5PA)
+![Image 2](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-57-47.png?token=GHSAT0AAAAAABW3WJI5GB5SF5KRQV33JGX6YW2U45A)
+![Slack Notification](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-19%2019-03-17.png?token=GHSAT0AAAAAABW3WJI5VR7RQTEMFVXYPYW4YW2U56Q)
 
 # Design System
 
