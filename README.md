@@ -9,7 +9,7 @@ It uses status APIs of service provider to fetch and show real time status.
 
 Figma : https://www.figma.com/file/Jobvnz4b90VKQBCIh2vxiO/checkstatus?node-id=0%3A1
 
-The Project has default configuration of status API services in constant
+The Project has default configuration in constant of status API services endpoints, logos and original status page urls to redirect
 
 1. Postman
 2. Slack
