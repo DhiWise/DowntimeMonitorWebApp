@@ -55,6 +55,10 @@ $ cd react-downtime-monitor-with-slack
 
     npm start
 
+#### 2. Set Account URL In Following Files
+
+Slack - src/service/api.js
+
 ## Version of Technologies
 
 - [git](https://git-scm.com/) - v2.13 or greater
