@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Image = ({
+export const Img = ({
   className,
   src = "defaultNoData.png",
   alt = "testImg",

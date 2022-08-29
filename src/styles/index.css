@@ -11,9 +11,6 @@ body {
 .dhiwise-navigation {
   min-height: 100%;
 }
-.dhiwise-code > div {
-  min-height: 100vh;
-}
 .common-row {
   flex-direction: row;
   display: flex;
