@@ -10,7 +10,7 @@ For all different types of services have different status pages, so instead of v
 - [Version of Technologies](#version-of-technologies)
 - [Folder Structure](#folder-structure)
 - [Installed Dependency](#installed-dependency)
-- [MIT License](#mit-license)
+- [MIT License](#license)
 - [Community](#community)
 
 # Features
@@ -37,9 +37,9 @@ The Project has default configuration in constant of status API services endpoin
 
 # Screenshots
 
-![Image 1](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/blob/main/src/assets/images/Screenshot%20from%202022-07-22%2018-27-26.png)
-![Image 2](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/blob/main/src/assets/images/Screenshot%20from%202022-07-22%2018-57-47.png)
-![Slack Notification](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/blob/main/src/assets/images/Screenshot%20from%202022-07-19%2019-03-17.png)
+![Image 1](/src/assets/images/Screenshot%20from%202022-07-22%2018-27-26.png)
+![Image 2](/src/assets/images/Screenshot%20from%202022-07-22%2018-57-47.png)
+![Slack Notification](/src/assets/images/Screenshot%20from%202022-07-19%2019-03-17.png)
 
 # Setup
 
@@ -48,13 +48,25 @@ The Project has default configuration in constant of status API services endpoin
 $ git clone https://github.com/.....
 $ cd react-downtime-monitor-with-slack
 ```
-## Install Dependencies
+## Installed Dependencies
 
     npm install
 
 ## Running the App
 
     npm start
+
+## Running the storybook
+
+We have detected common components and have generated possible variants of it. To check the documentation of generated common components by integrating storybook, Please follow below steps.
+
+## Install and Initializes
+
+     npx storybook init
+
+## Run the Storybook
+
+      npm run storybook
 
 #### 2. Set Account URL In Following Files
 
@@ -120,18 +132,6 @@ at "src/service/api.js" => "https://hooks.slack.com/services/[your slack webhook
 14. autoprefixer - `10.4.2`
 15. postcss - `8.4.6`
 16. tailwindcss - `3.0.18`
-
-## Running the storybook
-
-We have detected common components and have generated possible variants of it. To check the documentation of generated common components by integrating storybook, Please follow below steps.
-
-## Install and Initializes
-
-     npx storybook init
-
-## Run the Storybook
-
-      npm run storybook
 
 ## License
 
