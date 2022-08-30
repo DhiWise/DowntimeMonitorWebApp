@@ -37,9 +37,9 @@ The Project has default configuration in constant of status API services endpoin
 
 # Screenshots
 
-![Image 1](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/src/assets/images/Screenshot%20from%202022-07-22%2018-27-26.png)
-![Image 2](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/src/assets/images/Screenshot%20from%202022-07-22%2018-57-47.png)
-![Slack Notification](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/src/assets/images/Screenshot%20from%202022-07-19%2019-03-17.png)
+![Image 1](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/blob/main/src/assets/images/Screenshot%20from%202022-07-22%2018-27-26.png)
+![Image 2](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/blob/main/src/assets/images/Screenshot%20from%202022-07-22%2018-57-47.png)
+![Slack Notification](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/blob/main/src/assets/images/Screenshot%20from%202022-07-19%2019-03-17.png)
 
 # Setup
 
