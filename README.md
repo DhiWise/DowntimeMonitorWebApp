@@ -37,9 +37,9 @@ The Project has default configuration in constant of status API services endpoin
 
 # Screenshots
 
-![Image 1](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-27-26.png)
-![Image 2](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-22%2018-57-47.png)
-![Slack Notification](https://raw.githubusercontent.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/Screenshot%20from%202022-07-19%2019-03-17.png)
+![Image 1](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/src/assets/images/Screenshot%20from%202022-07-22%2018-27-26.png)
+![Image 2](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/src/assets/images/Screenshot%20from%202022-07-22%2018-57-47.png)
+![Slack Notification](https://www.github.com/AshutoshDaveDhiWise/react-downtime-monitor-with-slack/main/src/assets/images/Screenshot%20from%202022-07-19%2019-03-17.png)
 
 # Setup
 
@@ -51,13 +51,15 @@ $ cd react-downtime-monitor-with-slack
 ## Install Dependencies
 
     npm install
+
 ## Running the App
 
     npm start
 
 #### 2. Set Account URL In Following Files
 
-Slack - src/service/api.js
+Create Slack Webhooks API account from https://api.slack.com/apps?new_app=1 and add generated URL 
+at "src/service/api.js" => "https://hooks.slack.com/services/[your slack webhook setups url]"
 
 ## Version of Technologies
 

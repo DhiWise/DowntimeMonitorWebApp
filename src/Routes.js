@@ -9,7 +9,7 @@ const ProjectRoutes = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Home1 />} />
         <Route path="*" element={<NotFound />} />
         <Route path="/home1" element={<Home1 />} />
         <Route path="/dashboardselling" element={<DashboardSelling />} />
