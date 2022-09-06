@@ -66,12 +66,13 @@ We have detected common components and have generated possible variants of it. T
 
 ## Run the Storybook
 
-      npm run storybook
+     npm run storybook
 
 #### 2. Set Account URL In Following Files
 
-Create Slack Webhooks API account from https://api.slack.com/apps?new_app=1 and add generated URL 
-at "src/service/api.js" => "https://hooks.slack.com/services/[your slack webhook setups url]"
+Go to https://cors-anywhere.herokuapp.com/corsdemo and click on "Request temporary access to the demo server" to avoid cors issues while calling APIs from the browser, 
+
+Create Slack Webhooks API account from https://api.slack.com/apps?new_app=1 and add URL which is generated from Slack at "src/service/api.js" => "https://hooks.slack.com/services/[your slack webhook setups url]"
 
 ## Version of Technologies
 
