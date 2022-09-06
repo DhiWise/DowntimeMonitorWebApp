@@ -45,8 +45,8 @@ The Project has default configuration in constant of status API services endpoin
 
 #### 1. Clone the repository
 ```sh
-$ git clone https://github.com/.....
-$ cd react-downtime-monitor-with-slack
+$ git clone https://github.com/DhiWise/DowntimeMonitorWebApp
+$ cd DowntimeMonitorWebApp
 ```
 ## Installed Dependencies
 
