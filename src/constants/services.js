@@ -11,9 +11,7 @@ export const url = {
   HoppScotch: "https://status.hoppscotch.io/",
   Vercel: "https://www.vercel-status.com/api/v2/status.json",
   GitHub: "https://www.githubstatus.com/api/v2/status.json",
-  GitLab: "https://status.gitlab.com/",
   Figma: "https://status.figma.com/api/v2/status.json",
-  Discord: "https://discordstatus.com/api/v2/status.json",
 };
 export const image = {
   Postman: "https://www.postman.com/_ar-assets/images/favicon-1-48.png",
@@ -32,10 +30,7 @@ export const image = {
   Vercel:
     "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png",
   GitHub: "https://github.com/fluidicon.png",
-  GitLab:
-    "https://gitlab.diamnow.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png",
   Figma: "https://static.figma.com/app/icon/1/favicon.svg",
-  Discord: "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
 };
 
 export const redirectUrl = {
@@ -51,7 +46,5 @@ export const redirectUrl = {
   HoppScotch: "https://status.hoppscotch.io/",
   Vercel: "https://www.vercel-status.com",
   GitHub: "https://www.githubstatus.com",
-  GitLab: "https://status.gitlab.com/",
   Figma: "https://status.figma.com",
-  Discord: "https://discordstatus.com",
 };

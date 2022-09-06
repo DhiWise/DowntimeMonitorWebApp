@@ -62,14 +62,6 @@ const DashboardSellingPage = () => {
           else{
             return errorStatus(service);
           }
-          case 'Discord':
-          if(statusResp[service].status && statusResp[service].status.description)
-          {
-            return (<Row><div className="bg-green_A400 lg:h-[12px] xl:h-[14px] h-[15px] 2xl:h-[16px] 3xl:h-[19px] lg:ml-[168px] xl:ml-[192px] ml-[216px] 3xl:ml-[259px] lg:my-[17px] xl:my-[20px] my-[23px] 3xl:my-[27px] rounded-radius784 lg:w-[11px] xl:w-[13px] w-[15px] 3xl:w-[18px]"></div><Text className="mt-[15px] ml-[15px]">{statusResp[service].status.description}</Text></Row>)
-          }
-          else{
-            return errorStatus(service);
-          }
           case 'Postman':
           if(statusResp[service].status && statusResp[service].status.description)
           {
@@ -163,14 +155,6 @@ const DashboardSellingPage = () => {
                       {
                         return (<Row><div className="bg-green_A400 lg:h-[12px] xl:h-[14px] h-[15px] 2xl:h-[16px] 3xl:h-[19px] lg:ml-[168px] xl:ml-[192px] ml-[216px] 3xl:ml-[259px] lg:my-[17px] xl:my-[20px] my-[23px] 3xl:my-[27px] rounded-radius784 lg:w-[11px] xl:w-[13px] w-[15px] 3xl:w-[18px]"></div><Text className="mt-[15px] ml-[15px]">{statusResp[service].status.description}</Text></Row>)
                       }
-                      else{
-                        return errorStatus(service);
-                      }
-                      case 'GitLab':
-                        if(statusResp[service] && statusResp[service].includes("All Systems Operational"))
-                        {
-                          return (<Row><div className="bg-green_A400 lg:h-[12px] xl:h-[14px] h-[15px] 2xl:h-[16px] 3xl:h-[19px] lg:ml-[168px] xl:ml-[192px] ml-[216px] 3xl:ml-[259px] lg:my-[17px] xl:my-[20px] my-[23px] 3xl:my-[27px] rounded-radius784 lg:w-[11px] xl:w-[13px] w-[15px] 3xl:w-[18px]"></div><Text className="mt-[15px] ml-[15px]">All Systems Operational</Text></Row>)
-                        }
                       else{
                         return errorStatus(service);
                       }

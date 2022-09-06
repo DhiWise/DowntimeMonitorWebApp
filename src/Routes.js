@@ -1,6 +1,6 @@
 import React from "react";
-import DashboardSelling from "pages/DashboardSelling";
-import Home1 from "pages/Home1";
+import DashboardSelling from "pages/ServiceStatus";
+import Home1 from "pages/ServiceList";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "pages/Home";
 import NotFound from "pages/NotFound";
