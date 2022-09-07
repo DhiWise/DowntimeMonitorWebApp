@@ -31,9 +31,7 @@ The Project has default configuration in constant of status API services endpoin
 10. HoppScotch
 11. Vercel
 12. GitHub
-13. GitLab
-14. Figma
-15. Discord
+13. Figma
 
 # Screenshots
 
